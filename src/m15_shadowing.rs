@@ -6,7 +6,7 @@ pub fn fun() {
   }
 
   let x = "X is a starting";
-  println!("x is {}", x); // -> 10
+  println!("x is {}", x); // -> X is a starting
 
   let x = true;
   println!("x is {}", x); // -> true
